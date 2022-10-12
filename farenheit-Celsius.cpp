@@ -1,4 +1,4 @@
-//C++ program to convert temperature from fahrenheit to degree Celsius 
+//C++ functions program to convert temperature from fahrenheit to degree Celsius 
 #include <iostream>
 using namespace std;
 float temp (float celsius); //functions prototype
